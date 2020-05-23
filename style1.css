@@ -1,0 +1,46 @@
+h1{
+	font-family: Balsamiq Sans;
+	text-align: center;
+	background-color: skyblue;
+	border-left:20px solid darkblue;
+}
+hr{
+	border:2px dotted darkblue;
+}
+h2{
+	font-family: Balsamiq Sans;
+	text-align: center;
+}
+.sp{
+	font-family: spectral;
+}
+img{
+	  border-radius: 8px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 30%;
+}
+header{
+	background-color: darkblue;
+	padding: 10px;
+}
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 100px;
+}
+li a {
+	color: skyblue;
+	font-family: spectral;
+	font-weight: bolder;
+	font-size: 15px;
+}
+footer{
+	background-color: darkblue;
+	color:skyblue;
+	padding: 5px;
+	text-align: center;
+}
